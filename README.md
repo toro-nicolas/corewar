@@ -1,20 +1,20 @@
 # 💻 Corewar 🗡️
 
-![Corewar](https://toro-nicolas.github.io/Corewar/preview.png)
+![Corewar](https://toro-nicolas.github.io/corewar/preview.png)
 
 ## Table of contents 📑
-- [Description](https://github.com/toro-nicolas/Corewar/blob/main/README.md#description-)
-- [Usage](https://github.com/toro-nicolas/Corewar/blob/main/README.md#usage-%EF%B8%8F)
-- [Result](https://github.com/toro-nicolas/Corewar/blob/main/README.md#result-)
-- [Compilation](https://github.com/toro-nicolas/Corewar/blob/main/README.md#compilation-%EF%B8%8F)
-- [Documentation](https://github.com/toro-nicolas/Corewar/blob/main/README.md#documentation-)
-- [Code mandatory](https://github.com/toro-nicolas/Corewar/blob/main/README.md#code-mandatory-)
-- [What's next ?](https://github.com/toro-nicolas/Corewar/blob/main/README.md#whats-next--)
-- [Contributors](https://github.com/toro-nicolas/Corewar/blob/main/README.md#contributors-)
+- [Description](https://github.com/toro-nicolas/corewar/blob/main/README.md#description-)
+- [Usage](https://github.com/toro-nicolas/corewar/blob/main/README.md#usage-%EF%B8%8F)
+- [Result](https://github.com/toro-nicolas/corewar/blob/main/README.md#result-)
+- [Compilation](https://github.com/toro-nicolas/corewar/blob/main/README.md#compilation-%EF%B8%8F)
+- [Documentation](https://github.com/toro-nicolas/corewar/blob/main/README.md#documentation-)
+- [Code mandatory](https://github.com/toro-nicolas/corewar/blob/main/README.md#code-mandatory-)
+- [What's next ?](https://github.com/toro-nicolas/corewar/blob/main/README.md#whats-next--)
+- [Contributors](https://github.com/toro-nicolas/corewar/blob/main/README.md#contributors-)
 
 
 ## Description 📝
-The **Corewar** is a project carried out by **groups of 2** (see [Contributors](https://github.com/toro-nicolas/Corewar/blob/main/README.md#contributors-), during our **1st year** in [**EPITECH**](https://www.epitech.eu/) Grand Ecole program.  
+The **Corewar** is a project carried out by **groups of 2** (see [Contributors](https://github.com/toro-nicolas/corewar/blob/main/README.md#contributors-), during our **1st year** in [**EPITECH**](https://www.epitech.eu/) Grand Ecole program.  
 Its purpose is to recreate in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) a [**Core War video game**](https://en.wikipedia.org/wiki/Core_War).  
 The aim of **Corewar** is to have robots/champions **fight in an arena** that functions as a **virtual machine**.  
 This project follows on from the [**Robot Factory**](https://github.com/toro-nicolas/robot-factory), another school project aimed at **creating robots/champions** for the **Corewar**.  
@@ -94,7 +94,7 @@ You can compile the project and run the unit tests with this command :
 make tests_run
 ```
 
-For more details, please click [here](https://toro-nicolas.github.io/Corewar/tests/test.html).
+For more details, please click [here](https://toro-nicolas.github.io/corewar/tests/test.html).
 
 
 ## Compilation 🛠️
@@ -122,7 +122,7 @@ make unit_tests
 
 
 ## Documentation 📚
-The documentation is accessible [here](https://toro-nicolas.github.io/Corewar/html/).
+The documentation is accessible [here](https://toro-nicolas.github.io/corewar/html/).
 
 You can generate the documentation with this command :
 ```sh
